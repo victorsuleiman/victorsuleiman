@@ -12,7 +12,7 @@
 * **Main IDEs and Frameworks:** Android Studio, Visual Studio and VS Code, Unity, .NET, Node.JS, Flask, React.
 
 ### Check out the source code and test my projects online (no download needed)!
-* aioRestaurants: **[repo](https://github.com/victorsuleiman/aioRestaurants) / [test it!](https://appetize.io/app/q8b0ur0hh7fa3ryva81uhztfv0?device=nexus9&scale=50&orientation=landscape&osVersion=8.1)**
+* aioRestaurants: **[repo](https://github.com/victorsuleiman/aioRestaurants) / [test it!](https://appetize.io/app/q8b0ur0hh7fa3ryva81uhztfv0?device=nexus9&scale=50&orientation=landscape&osVersion=8.1)** (Log in as admin/admin)
 * PickYourRecipe: **[repo](https://github.com/victorsuleiman/PickRecipe) / [test it!](https://appetize.io/app/40euz6r81pvrvy84pw9c9ggfhc?device=nexus5&scale=75&orientation=portrait&osVersion=8.1)**
 * Tappy: **[repo](https://github.com/victorsuleiman/TappyForAndroid) / [test it!](https://appetize.io/app/x6rea65rz3yn6mg4m3vedjh3g8?device=nexus7&scale=50&orientation=portrait&osVersion=8.1)**
 * Cartilha: **[repo](https://github.com/victorsuleiman/CartilhaGame) / [test it!](https://czzbandicoot.itch.io/cartilha)**
