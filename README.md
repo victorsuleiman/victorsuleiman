@@ -9,7 +9,8 @@
 
 👨‍💻 I am currently transfering my C# test automation skills into other languages like Python with Pytest and JS/TS with Playwright, in order to showcase my ability to choose test cases that have automation potential and turn test cases into automated tests, no matter the language and framework I'm using.
 
-* **Programming languages:** C# | Java | Python | Javascript Databases: SQL | MongoDB | SQL Server 
+* **Programming languages:** C# | Java | Python | Javascript
+* **Databases:** SQL | MongoDB | SQL Server 
 * **Testing, Automation & Reporting:** Selenium webdriver | EA C# automation framework | Postman | Pytest | Google Apps Script | TestRail | Zephyr | QMetry 
 * **Version control and CI/CD:** Git | Gitlab | GitHub | GitHub Actions | Jenkins | Jeeves | Perforce 
 * **Other skills and technologies:** Unity | Agile | Waterfall | Jira/JQL | Confluence | Videogame Target Managers | REST APIs | HTML/CSS | Frostbite Debug Tools | Visual Studio 
