@@ -17,12 +17,12 @@
 * **Languages:** Fluently trilingual in English, French and Portuguese 
 
 ### Check out the source code, description and play some of my projects online!
+* DDI-API (python backend testing): **[repo](https://github.com/victorsuleiman/DDI-API)**
 * Vax-man (python game): **[repo](https://github.com/victorsuleiman/vaxman-pygame)**
 * aioRestaurants (mobile app): **[repo](https://github.com/victorsuleiman/aioRestaurants)**
 * PickYourRecipe (mobile app): **[repo](https://github.com/victorsuleiman/PickRecipe)**
 * Tappy (mobile game): **[repo](https://github.com/victorsuleiman/TappyForAndroid) / [play it!](https://appetize.io/app/x6rea65rz3yn6mg4m3vedjh3g8?device=nexus7&scale=50&orientation=portrait&osVersion=8.1)**
 * Cartilha (Unity game): **[repo](https://github.com/victorsuleiman/CartilhaGame) / [play it!](https://czzbandicoot.itch.io/cartilha)**
-* Block Breaker (Unity game): **[repo](https://github.com/victorsuleiman/BlockBreakerRetro) / [play it!](https://simmer.io/@czzbandicoot/block-breaker)**
 
 ### Contact me:
 [<img src='https://vectorico.com/wp-content/uploads/2025/03/Linkedin_in_Logo.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/victorsuleiman//)  [<img src='https://i.pinimg.com/736x/a1/d1/4b/a1d14ba7881740c8c3e428a75132a2ae.jpg' alt='gmail' height='40'>](mailto:victorsuleiman.1994@gmail.com)  [<img src='https://cdn.worldvectorlogo.com/logos/upwork-roundedsquare-1.svg' alt='upwork' height='40'>](https://www.upwork.com/freelancers/~010887e7a6bd98a3a6)
